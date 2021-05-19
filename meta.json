@@ -1,15 +1,15 @@
 { 
    "licenseType" : "CC BY-SA", 
-   "creatorName" : "Author", 
-   "packageName" : "MyPlugin", 
+   "creatorName" : "GenderBen", 
+   "packageName" : "SkinSwapper", 
    "includeVersionsInReferences" : "true", 
-   "description" : "v0.0.0 MyPlugin Description", 
+   "description" : "v0.0.0 Swap skins on person objects with code triggers.", 
    "credits" : "", 
    "instructions" : "", 
    "promotionalLink" : "https://github.com/Author/MyPlugin", 
    "programVersion" : "1.19.0.5", 
    "contentList" : [ 
-      "Custom\\Scripts\\Author\\MyPlugin\\MyPlugin.cs"
+      "Custom\\Scripts\\GenderBen\\SkinSwapper\\SkinSwapper.cs"
    ], 
    "dependencies" : { 
    }
